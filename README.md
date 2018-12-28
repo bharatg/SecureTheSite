@@ -8,9 +8,11 @@ its predecessor, Secure Sockets Layer (SSL)
 
 ### Procedure:
 #### Ubuntu
+```
  1. sudo add-apt-repository ppa:certbot/certbot
  2. sudo apt-get update
  3. sudo apt-get install python-certbot-nginx
+ ```
  
  #### Ngnix
  sudo nano /etc/nginx/sites-available/default
