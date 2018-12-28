@@ -15,11 +15,13 @@ its predecessor, Secure Sockets Layer (SSL)
  ```
  
  #### Ngnix
+ ```
  sudo nano /etc/nginx/sites-available/default
+ ```
  edit
-     . . .
-    server_name example.com www.example.com;
-    . . .
+    >. . .
+    >server_name example.com www.example.com;
+    ?. . .
 ```
 sudo nginx -t
 sudo systemctl reload nginx
