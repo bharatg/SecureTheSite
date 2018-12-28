@@ -10,9 +10,10 @@ its predecessor, Secure Sockets Layer (SSL)
 ### Procedure:
 #### Ubuntu
 ```
- 1. sudo add-apt-repository ppa:certbot/certbot
- 2. sudo apt-get update
- 3. sudo apt-get install python-certbot-nginx
+ 1. sudo apt-get install software-properties-common
+ 2. sudo add-apt-repository ppa:certbot/certbot
+ 3. sudo apt-get update
+ 4. sudo apt-get install python-certbot-nginx
  ```
  
  #### Ngnix
