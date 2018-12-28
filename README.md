@@ -5,6 +5,7 @@ from Wikipedia
 In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS), or, formerly,
 its predecessor, Secure Sockets Layer (SSL)
 
+![GitHub Logo](https://en.wikipedia.org/wiki/HTTPS#/media/File:Internet2.jpg)
 
 ### Procedure:
 #### Ubuntu
