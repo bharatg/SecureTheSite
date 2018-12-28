@@ -18,9 +18,10 @@ its predecessor, Secure Sockets Layer (SSL)
      . . .
     server_name example.com www.example.com;
     . . .
-
+```
 sudo nginx -t
 sudo systemctl reload nginx
+```
 
 Refer for more Details
 https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04
